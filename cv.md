@@ -85,3 +85,9 @@ On a PM position I supported continious projects and managed development process
 
 - Perform product demos to customers
 ---
+### Languages
+1. **English** - Fluent
+2. **Ukranian** - Native
+3. **German** - Beginner
+4. **Polish** - Pre-intermediate
+5. **Russian** - Fluent
