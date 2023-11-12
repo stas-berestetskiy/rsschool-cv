@@ -111,4 +111,16 @@ let result = array.map(number => number.repeat(parseInt(number)));
 return result.join(' ');
 }
 ```
+
+---
+
+### Education
+
+| Year        | Status            | Program/Course           | Institution/Organization |
+| ----------- | ----------------- | ------------------------ | ------------------------ |
+| 2022 - Now  | In Progress       | Rolling Scope School     | The Rolling Scope School |
+| 2021 - 2022 | Completed Course  | JavaScript Course        | freecodecamp.org         |
+| 2021        | Completed Course  | Web Dev by Ivan P.       | Udemy                    |
+| 2017 - 2019 | Bachelor’s Degree | Economics Law            | NLU of Yaroslav the Wise |
+| 2013 - 2017 | Master’s Degree   | Institute of Prosecution | NLU of Yaroslav the Wise |
 ---
