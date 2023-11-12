@@ -64,6 +64,7 @@ As a PM I worked on a big project for Marketing Department communicating closely
 #### Infuse Media
 
 `Mar 2018 - Nov 2020`
+
 **Deputy Head, IT Department**
 As a Deputy Head I was mostly concentrated on ganeral development processes, rules, workflows and principles. Coordinate department PM’s.
 
