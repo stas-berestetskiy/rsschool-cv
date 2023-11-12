@@ -31,9 +31,9 @@
 
 ### Recent Projects
 
-- **[Calculator](https://stas-berestetskiy.github.io/calculator/)**
-- **[Quote Generator](https://stas-berestetskiy.github.io/quote-generator/)**
-- **More to come...**
+-   **[Calculator](https://stas-berestetskiy.github.io/calculator/)**
+-   **[Quote Generator](https://stas-berestetskiy.github.io/quote-generator/)**
+-   **More to come...**
 
 ---
 
