@@ -123,4 +123,7 @@ return result.join(' ');
 | 2021        | Completed Course  | Web Dev by Ivan P.       | Udemy                    |
 | 2017 - 2019 | Bachelor’s Degree | Economics Law            | NLU of Yaroslav the Wise |
 | 2013 - 2017 | Master’s Degree   | Institute of Prosecution | NLU of Yaroslav the Wise |
+
 ---
+
+2023 by **_Stanislav Berestetskyi_** | [Gmail](mailto:stasberestetskiy@gmail.com) | [Telegram](https://t.me/BerStas) | [LinkedIn](https://www.linkedin.com/in/stanislav-berestetskiy/)
