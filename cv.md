@@ -36,58 +36,79 @@
 **More to come...**
 
 ---
+
 ### Experience
+
 #### G5 Entertainment
-```Dec 2020 - Present```
+
+`Dec 2020 - Present`
 
 **Project Manager, Grade 2**
 On a new Grade I started with additional project for analytical team. Concentrated on a great UI/UX experience and complex logic inside a product. During this period:
 
-- Built processes and product from scratch
+-   Built processes and product from scratch
 
-- Managed budget, employee promotions, performance reviews
+-   Managed budget, employee promotions, performance reviews
 
-- Increased team size by 15 people
+-   Increased team size by 15 people
 
 **Project Manager, Grade 1**
 As a PM I worked on a big project for Marketing Department communicating closely with VPM, DM and Marketing Team Leads as main stakeholders. Managed Team of 3-7 people. As a result:
 
-- Established new communicating plan with stakeholders
+-   Established new communicating plan with stakeholders
 
-- Built new feature set withing time and budget
+-   Built new feature set withing time and budget
 
-- Increased product metrics by 20%
+-   Increased product metrics by 20%
 
 #### Infuse Media
-```Mar 2018 - Nov 2020```
+
+`Mar 2018 - Nov 2020`
 **Deputy Head, IT Department**
 As a Deputy Head I was mostly concentrated on ganeral development processes, rules, workflows and principles. Coordinate department PM’s.
 
-- Complex program management
+-   Complex program management
 
-- People management
+-   People management
 
-- Strategic and tactical planning
+-   Strategic and tactical planning
 
 **Project Manager**
 On a PM position I supported continious projects and managed development process.
 
-- Setting project goals and coming up with plans to meet those goals
+-   Setting project goals and coming up with plans to meet those goals
 
-- Coordinating project team members and developing schedules
+-   Coordinating project team members and developing schedules
 
-- Using project management tools to track project performance
+-   Using project management tools to track project performance
 
 **Product Owner**
-- Define the product strategy and roadmap
 
-- Develop the core positioning and messaging for the product
+-   Define the product strategy and roadmap
 
-- Perform product demos to customers
+-   Develop the core positioning and messaging for the product
+
+-   Perform product demos to customers
+
 ---
+
 ### Languages
+
 1. **English** - Fluent
 2. **Ukranian** - Native
 3. **German** - Beginner
 4. **Polish** - Pre-intermediate
 5. **Russian** - Fluent
+
+---
+
+### Code Example
+
+```
+function explode(s) {
+const array = s.split(' ');
+let result = array.map(number => number.repeat(parseInt(number)));
+return result.join(' ');
+}
+```
+---
